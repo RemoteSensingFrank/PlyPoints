@@ -1,0 +1,3 @@
+/home/wuwei/Program/PlyPoints/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wuwei/Program/PlyPoints/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wuwei/Program/PlyPoints/cmake-build-debug/CMakeFiles/PlyPoints.dir
